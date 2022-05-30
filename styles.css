@@ -1,0 +1,23 @@
+
+/* HOMEPAGE STYLING */
+
+.my-hover {
+    text-decoration: none;
+    color:black;
+}
+.my-hover:hover {
+    color:#11999E;
+    text-decoration: underline;
+}
+
+.hover2:hover {
+    color: #EAF6F6;
+  }
+
+/* OUR-TEAM PAGE STYLING */
+
+.me-img {
+    width: 70%;
+    }
+
+
